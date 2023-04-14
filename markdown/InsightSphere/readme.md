@@ -27,7 +27,7 @@
         - Reference
             - This is reference 1.
             - This is reference 2.
-    - ^^严禁使用discourse graph^^，除非用于改插件本身的功能演示；此举是为了减少页面凌乱的目的。
+    - ^^严禁使用discourse graph^^，除非用于该插件本身的功能演示；此举是为了减少页面凌乱的目的。
     - 类似软件名称等专有名称^^创造双链一律采用无空格小写表示^^，用户名称不受此格式限制。
         - 如`[[Hook]]`应当改写成`[[hook]]`，以方便后续生成`[[W/S/hook]]`的时候能通过[hierarchy](((FNajtEHIR)))中的`Homonyms`关联上。
 - ## 附件规范
