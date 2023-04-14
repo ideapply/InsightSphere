@@ -1,0 +1,9 @@
+- applenote其实挺强大的，有兴趣的可以一起发掘，hhh
+- [[Skyline]]
+    - Apple Notes的亮点
+        - 系统级别的搜索：比如手写搜索，文字搜索。
+        - 支持[[Hook]]，链接笔记不用愁。
+        - 快速笔记支持好
+            - iPhone可以增加到控制中心，快速打开
+            - iPad锁屏时，只需要Apple Pencil点击屏幕，就可打开笔记
+            - Mac上可以增加触发角呼出Notes

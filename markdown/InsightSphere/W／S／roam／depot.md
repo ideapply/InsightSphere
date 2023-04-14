@@ -1,0 +1,4 @@
+- roam hierarchy
+    - #A/R/roam
+        - `deep level`和`sorts`最好能有个固化选项，方便后面大量page的分级搜索。
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FwJmI-hY_9f.png?alt=media&token=f63cc620-8078-49a0-8269-2c7c979fa521)

@@ -1,0 +1,3 @@
+- 前期资料收集
+    - 主页：[MacGPT - ChatGPT in your menubar](https://www.macgpt.com/)
+    - gumroad页面：[🧠 MacGPT](https://goodsnooze.gumroad.com/l/menugpt)

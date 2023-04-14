@@ -1,0 +1,3 @@
+- 前期资料收集
+    - 主页：[BibiGPT Terminator](https://b.jimmylv.cn)
+    - Github页面：[GitHub - JimmyLv/BibiGPT: 音视频内容一键总结](https://github.com/JimmyLv/BibiGPT)

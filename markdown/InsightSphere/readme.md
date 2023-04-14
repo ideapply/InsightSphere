@@ -1,0 +1,35 @@
+- > Take your time and enjoy the process !
+- **[[Inbox]]**
+    - __建议和缓存内容存放处__
+- ## 命名规范
+    - ^^前期可以在[[CheatSheet]]的Inbox中提交申请，由我统一命名。^^
+    - 对于 #W/K 子页面之外的页面都遵循三层命名规范：`大写`+`大写`+`小写`
+        - 例如：`W/S/roam`
+    - 对于 #W/K 子页面命名参考[[CheatSheet]]页说明，至少有四层：`W`+`K`+`中图分类号`+`小写`
+        - 例如：`W/K/TP/agi`
+    - 对于尚未定型的主题，可以考虑采用在正式命名后增加`/N`的形式创建临时页，在内容ok之后再转正
+        - 例如：`W/S/roam/N`
+- ## 页面规范
+    - __目前页面模版尚未定型，暂时配置了一款软件页面参考模版，仅供参考。__
+    - 模版通过英文字符`;;`呼出，当下可以根据需求适当增减项目。
+    - 对于暂未启用的tag可以先注释掉：`#A/R`；对于大量的基于一个页面的相同tag，可以采用子标题的样式引流：`#A/R/roam`。
+- ## 书写规范
+    - __`Daily Notes`部分不做规范化要求，大家可以用来练手和测试。__
+    - 文本内容注意^^简明扼要，避免冗长^^的叙述。
+    - 内容不需要快速的充填，知识是一个积累的过程，宁缺毋滥；要从容不迫，^^慢慢去沉淀^^。
+    - ^^避免输入空行/block^^，这样别人会无法编辑或删除该block，影响页面美观。
+    - 对于任何内容的建议和想法请在该**页面的指定位置**或该**页面的Inbox**中提出，以便^^维持页面整洁^^。
+    - 为了更方便的沟通，可以在提建议之前在`Settings`中^^填写自己的昵称^^。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FCF7X_eDyF4.png?alt=media&token=bc617517-ef70-4644-9653-b7a8c4a530f3)
+    - ^^参考资料放在所编辑内容块的末端^^并使用`[](((block ref)))`的形式在文中标注。
+        - Topic
+            - This is content block, this is [ref](((h37G0tjJQ))). If ref content is not specified, use number instead at the end of the content.[1](((i35wi6AfY)))
+        - Reference
+            - This is reference 1.
+            - This is reference 2.
+    - ^^严禁使用discourse graph^^，除非用于改插件本身的功能演示；此举是为了减少页面凌乱的目的。
+    - 类似软件名称等专有名称^^创造双链一律采用无空格小写表示^^，用户名称不受此格式限制。
+        - 如`[[Hook]]`应当改写成`[[hook]]`，以方便后续生成`[[W/S/hook]]`的时候能通过[hierarchy](((FNajtEHIR)))中的`Homonyms`关联上。
+- ## 附件规范
+    - 图片可以考虑都放在roam自带图床，方便后续访问和整库备份。
+- ### __对于有兴趣加入长期知识构建计划的朋友，欢迎将你Roam Research帐号的邮箱私信给我；我会将本graph也加入你的目录中，方便后续编辑。__

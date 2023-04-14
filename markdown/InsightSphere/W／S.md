@@ -1,0 +1,19 @@
+- > 工欲善其事，必先利其器！这里作为一些常用工具的汇总，总结经验、交流心得。
+- 待添加页面：
+    - 笔记工具向：
+        - `#W/S/notion`
+        - `#W/S/obsidian`
+    - 学科工具向：
+        - `#W/S/matlab`
+        - `#W/S/mathematica`
+        - `#W/S/comsol`
+    - 语言工具向：
+        - `#W/S/latex`
+        - `#W/S/markdown`
+        - `#W/S/css`
+    - 通用语言向：
+        - `#W/S/python`
+        - `#W/S/c`
+        - `#W/S/html`
+        - `#W/S/java`
+        - `#W/S/php`

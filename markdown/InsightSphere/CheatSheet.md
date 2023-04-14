@@ -1,0 +1,26 @@
+- > 此页作为索引参考模板，应严格遵守，以便规范化全库样式。
+- **[[Inbox]]**
+    - __建议和缓存内容存放处__
+- #W ：包括平面化类维基百科的基础库(wiki)
+    - #W/S ：对于每个软件建立的Topic-Based页面(software)
+        - #W/S/roam ：Roam Research软件主题页
+        - #W/S/applenotes ：Apple Notes软件主题页
+        - #W/S/devonthink ：Devonthink软件主题页
+    - #W/K ：基于中图法的纯学科向分类子项(knowledge)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2Fm4Uhp-C3xo.png?alt=media&token=8e169ff8-03a7-45d6-a841-ea5f9508d928)
+    - #W/AI ：AI相关的临时子项(artificial intelligence)
+        - #W/AI/prin ：基本原理(principle)
+        - #W/AI/app ：底层原创和上层实现(application)
+        - #W/AI/imp ：社会学效应(impact)
+- #A ：包括方案构想和方案实现的运行库(action)
+    - #A/P ：方案构想(plan)
+        - #A/P/webclip ：网页剪辑策略分享
+        - #A/P/translator ：文本翻译工作流设想
+        - #A/P/stt :语音转文本方案实现
+    - #A/A ：方案实现(achieved)
+    - #A/T ：小Tip经验分享(tips)
+    - #A/R ：桃子计划 - 幻想可以有，万一实现了呢(roadmap)
+- #V ： 包括观点和相关论据分享的交流库(view)
+    - #V/C ：观点声明(claim)
+    - #V/E ：观点的论据佐证(evidence)
+    - #V/S ：~~保留项，不宜大量采用~~(source)
