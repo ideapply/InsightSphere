@@ -2,6 +2,7 @@
     - Emacs是一款自由、开源、可定制的文本编辑器，可以在多个操作系统上运行。它是一个非常强大的工具，因为它支持多种编程语言，并且可以通过扩展来实现各种功能，例如文本处理、图像处理、邮件、日历等。org-roam是一个链接笔记和知识管理软件，它是Emacs中的一个扩展。org-roam主要通过在Emacs中使用org-mode文件和标记语言来创建、组织、链接、搜索和分享笔记和知识。
 - 前期资料收集
     - [Getting Started with Org Roam - Build a Second Brain in Emacs](https://www.youtube.com/c/SystemCrafters)
+    - [GitHub - rougier/emacs-gtd: Get Things Done with Emacs](https://github.com/rougier/emacs-gtd)
 - [[Inbox]]
     - todo事项和缓存区
 - 功能简述

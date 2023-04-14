@@ -28,3 +28,4 @@
     - Reference
         - [MP3 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/MP3#MP3的音频品質)
             - Layer 3: 112 - 128 kbit/s，压缩率12:1-10:1
+        - [音频相关基础知识（采样率、位深度、通道数、PCM、AAC）](https://blog.csdn.net/qq_41824928/article/details/108124382)
