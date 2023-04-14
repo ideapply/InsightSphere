@@ -8,3 +8,5 @@
 - [[April 14th, 2023]]
     - 新增访问短链接：https://roamcult.vip
     - 新增公开Github页面：[GitHub - ideapply/InsightSphere: 公共知识库](https://github.com/ideapply/InsightSphere)
+- [[April 15th, 2023]]
+    - ~~默认字体修改为「仓耳今楷」字体~~
