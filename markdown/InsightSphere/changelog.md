@@ -5,3 +5,6 @@
 - [[April 12th, 2023]]
     - 新增[[FAQ]]页面，用以解答大家对于本共享知识库的疑问
     - 已配置完成本共享知识库的文本增量备份和图床备份
+- [[April 14th, 2023]]
+    - 新增访问短链接：https://roamcult.vip
+    - 新增公开Github页面：[GitHub - ideapply/InsightSphere: 公共知识库](https://github.com/ideapply/InsightSphere)
