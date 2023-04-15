@@ -1,18 +1,35 @@
 - applenote其实挺强大的，有兴趣的可以一起发掘，hhh
 - [[Skyline]]
-    - Apple Notes的亮点
-        - 系统级别的搜索：比如手写搜索，文字搜索。
+    - 注：下面Notes均代表Apple Notes应用。
+    - ## Notes的亮点
+        - 系统级别的搜索：比如手写搜索，文字搜索，图片搜索。
         - 支持[[Hook]]，链接笔记不用愁。
         - 快速笔记支持好
             - iPhone可以增加到控制中心，快速打开
             - iPad锁屏时，只需要Apple Pencil点击屏幕，就可打开笔记
             - Mac上可以增加触发角呼出Notes
-    - 导出备份
-        - [Exporter](https://apps.apple.com/cn/app/exporter/id1099120373?l=en&mt=12)
-            - Export notes from Notes.app
-            - Notes can be exported to markdown or HTML format.
-            - Creation & modification dates of notes are preserved.
-            - Notes are stored in directories named after the notebooks in which they are stored in Notes.app.
-            - Notes in same notebook having same name are renamed to avoid old notes being re-written by new ones.
-            - Support for exporting attachments of type - JPEG, PNG, GIF, TIFF & BMP while exporting in markdown
-            - format.
+    - ## 导入导出
+        - ### 导出备份
+            - **Exporter**
+                - App Store链接：[Exporter](https://apps.apple.com/cn/app/exporter/id1099120373?l=en&mt=12)
+                - Notes自带的导出功能不够便利，Exporter可以更快速批量导出成md或html备份。
+                - 需要注意的是，Notes的导入功能暂不支持md格式导入：[在 Mac 上导入和导出备忘录 - 官方 Apple 支持 (中国)](https://support.apple.com/zh-cn/guide/notes/not201900c07/mac)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2Fk9J_mi_HmG.png?alt=media&token=3e261795-f1fd-48d6-888e-f17b4ee40816)
+                - 简介
+                    - Export notes from Notes.app
+                    - Notes can be exported to markdown or HTML format.
+                    - Creation & modification dates of notes are preserved.
+                    - Notes are stored in directories named after the notebooks in which they are stored in Notes.app.
+                    - Notes in same notebook having same name are renamed to avoid old notes being re-written by new ones.
+                    - Support for exporting attachments of type - JPEG, PNG, GIF, TIFF & BMP while exporting in markdown format.
+        - ### 导入笔记
+            - [在 Mac 上导入和导出备忘录 - 官方 Apple 支持 (中国)](https://support.apple.com/zh-cn/guide/notes/not201900c07/mac)
+    - ## 笔记链接
+        - 外部需要链接Notes的笔记
+            - 1. 点击Invite with Link，然后关闭窗口
+            - 2. 会出现Copy Link选项，复制粘贴到你要的应用即可
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FRVemIgTRMv.png?alt=media&token=6e7a85e9-9ea4-4912-a701-0bfa72a144a8)
+        - Notes的笔记要跳转到外部
+            - 全选粘贴过来的Link，右键制作链接即可
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FJlte0rewH9.png?alt=media&token=339a359e-958e-4253-8e7e-669c167c4969)
+        - 除了上面两种常规方法，支持[[Hook]]，链接笔记不用愁。
