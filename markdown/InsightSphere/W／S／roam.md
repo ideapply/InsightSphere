@@ -199,8 +199,8 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FVAevGJUc_7.png?alt=media&token=9edf3800-64c1-4cb6-8a8c-180d2ed408e6)
         - 注意事项：注意恢复User页面设置，恢复[第三方JS插件]([[roam/js]])。
     2. {{[[DONE]]}} roam-excalidraw在新的graph中经常无法启动。 -> [[March 29th, 2023]] 16:16
-        - 目前官方支持的最新版excalidraw已发布，直接采用官方方案就行了
-            - 通过`/Excalidraw`指令diao
+        - 目前官方支持的最新版excalidraw已发布，可以直接采用官方方案。jj
+            - 通过`/Excalidraw`指令调取。
 - 功能测试
     - Twitter
         - https://twitter.com/CatoMinor3/status/1281942769242603524
