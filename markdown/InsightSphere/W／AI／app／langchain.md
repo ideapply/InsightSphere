@@ -1,0 +1,4 @@
+- 前期资料收集
+    - 官网：[LANG CHAIN 🦜️🔗 Official Home Page](https://langchain.com)
+    - Github页面：[GitHub - hwchase17/langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/hwchase17/langchain)
+    - Hugging Face：[GPT+WolframAlpha+Whisper - a Hugging Face Space by JavaFXpert](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)

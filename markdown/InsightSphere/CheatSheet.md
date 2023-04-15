@@ -12,6 +12,8 @@
     - #W/AI ：AI相关的临时子项(artificial intelligence)
         - #W/AI/prin ：基本原理(principle)
         - #W/AI/app ：底层原创和上层实现(application)
+            - #W/AI/app/chatgpt ：OpenAI旗下的大语言模型网页对话软件ChatGPT
+            - #W/AI/app/langchain ：LangChain是基于大语言模型的应用开发框架
         - #W/AI/imp ：社会学效应(impact)
 - #A ：包括方案构想和方案实现的运行库(action)
     - #A/P ：方案构想(plan)

@@ -7,3 +7,12 @@
             - iPhone可以增加到控制中心，快速打开
             - iPad锁屏时，只需要Apple Pencil点击屏幕，就可打开笔记
             - Mac上可以增加触发角呼出Notes
+    - 导出备份
+        - [Exporter](https://apps.apple.com/cn/app/exporter/id1099120373?l=en&mt=12)
+            - Export notes from Notes.app
+            - Notes can be exported to markdown or HTML format.
+            - Creation & modification dates of notes are preserved.
+            - Notes are stored in directories named after the notebooks in which they are stored in Notes.app.
+            - Notes in same notebook having same name are renamed to avoid old notes being re-written by new ones.
+            - Support for exporting attachments of type - JPEG, PNG, GIF, TIFF & BMP while exporting in markdown
+            - format.
