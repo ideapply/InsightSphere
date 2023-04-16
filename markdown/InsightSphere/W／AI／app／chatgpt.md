@@ -1,3 +1,3 @@
 - > ChatGpt使用经验和参考资料汇总。
 - 前期资料收集
-    - [GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook)
+    - [GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook) via `#仝tóng`
