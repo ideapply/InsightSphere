@@ -1,0 +1,1 @@
+- {{[[query]]: {and: [[MailBox]][[ideapply]]}}}
