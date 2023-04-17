@@ -1,1 +1,1 @@
-- {{[[query]]: {and: [[MailBox]][[ideapply]]}}}
+- {{[[query]]: {and: [[MailBox/ideapply]]}}}
