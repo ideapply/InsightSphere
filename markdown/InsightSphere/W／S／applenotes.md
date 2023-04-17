@@ -1,15 +1,22 @@
 - applenote其实挺强大的，有兴趣的可以一起发掘，hhh
 - [[Skyline]]
-    - 注：下面Notes均代表Apple Notes应用。
-    - ## Notes的亮点
-        - 系统级别的搜索：比如手写搜索，文字搜索，图片搜索。
-        - 支持[[Hook]]，链接笔记不用愁。
-        - 快速笔记支持好
+    - ## 不明显的功能
+        - **支持标签**：`#` + 文字 ，标签也可以当简化的双链用
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FfdLsDXJY9V.png?alt=media&token=c5f3abd5-a5d7-453e-95b8-5357063a2677)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FdjC1anSpku.png?alt=media&token=5a1257d6-9286-432c-ab32-8efe6c9f865e)
+        - **添加日历事件**：检测到时间格式的文本，可以点击添加日历
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2Fgiwch7WSCl.png?alt=media&token=16c850c5-963c-4730-bc66-380147128001)
+        - **制作智能文件夹**：简单理解成过滤器，有一些系统自动的过滤条件
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2Fh0hakUzKvs.png?alt=media&token=d7ed8008-5562-4ba9-b179-0595e9e02c3e)
+    - ## 亮点
+        - **搜索**：系统级别的搜索：比如手写搜索，文字搜索，图片搜索。
+        - **链接**：支持[[Hook]]，链接笔记不用愁。
+        - **捕获**：快速笔记支持好
             - iPhone可以增加到控制中心，快速打开
             - iPad锁屏时，只需要Apple Pencil点击屏幕，就可打开笔记
             - Mac上可以增加触发角呼出Notes
     - ## 导入导出
-        - ### 导出备份
+        - ### 导出
             - **Exporter**
                 - App Store链接：[Exporter](https://apps.apple.com/cn/app/exporter/id1099120373?l=en&mt=12)
                 - Notes自带的导出功能不够便利，Exporter可以更快速批量导出成md或html备份。
@@ -22,7 +29,7 @@
                     - Notes are stored in directories named after the notebooks in which they are stored in Notes.app.
                     - Notes in same notebook having same name are renamed to avoid old notes being re-written by new ones.
                     - Support for exporting attachments of type - JPEG, PNG, GIF, TIFF & BMP while exporting in markdown format.
-        - ### 导入笔记
+        - ### 导入
             - [在 Mac 上导入和导出备忘录 - 官方 Apple 支持 (中国)](https://support.apple.com/zh-cn/guide/notes/not201900c07/mac)
     - ## 笔记链接
         - 外部需要链接Notes的笔记
@@ -32,4 +39,4 @@
         - Notes的笔记要跳转到外部
             - 全选粘贴过来的Link，右键制作链接即可
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FJlte0rewH9.png?alt=media&token=339a359e-958e-4253-8e7e-669c167c4969)
-        - 除了上面两种常规方法，支持[[Hook]]，链接笔记不用愁。
+        - 除了上面两种常规方法，**链接**：支持[[Hook]]，链接笔记不用愁。
