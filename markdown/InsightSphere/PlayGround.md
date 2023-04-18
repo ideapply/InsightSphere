@@ -1,2 +1,2 @@
-- 邮箱测试2 #MailBox/ideapply
+- #MailBox/ideapply 邮箱测试标题
     -  echo world！

@@ -263,7 +263,7 @@
                     - hidden children
                 - Look between us!
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FYeqLG5Rs5C.png?alt=media&token=339589c4-2929-46ff-8e01-97d17f5556bc)
-- ## 方法论交流 #V
+- ## 方法论交流 #V/C
     - ### Roam的使用感受 3.0 -> [[July 9th, 2022]] 22:48 #ideapply
         - 使用Roam到现在也三个多月了，刚看到群里起底了下我初次使用Roam的帖子，看着也这么久了，就再写一个3.0版本的感想吧。
         - 近三个月的几乎所有碎片文本工作都是在Roam上写的，相较于之前的All-In-One的思路，我现在更多的是将Roam作为我文本书写整理和其它软件调度批注的控制台。之所以这样做，主要是因为Roam是目前唯一一款满足我双链需求的真正意义上的多端实时同步笔记软件。多端实时同步的好处在于：设备的切换丝毫不会影响我文本书写和思路构建的线性度。

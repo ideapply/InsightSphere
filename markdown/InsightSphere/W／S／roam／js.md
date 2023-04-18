@@ -1,5 +1,5 @@
 - > js插件主题页，作为尚未收录到`Roam Depot`的本知识库用到的js插件的汇总。
-- {{[[DONE]]}} **[Style Roam](https://github.com/JimmyLv/styled-roam)** #吕立青
+- {{[[DONE]]}} **[Style Roam](https://github.com/JimmyLv/styled-roam)** `#吕立青`
     - {{[[roam/js]]}}
         - ```javascript
 window.URLScriptServer = `https://styled-roam.vercel.app/`

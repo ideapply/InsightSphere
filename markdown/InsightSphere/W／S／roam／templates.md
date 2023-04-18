@@ -19,7 +19,7 @@
     - Bug
         - __存在的Bug和应对方案__
     - 功能测试
-    - 方法论交流 `#V`
+    - 方法论交流 `#V/C`
 - ---
 - #42SmartBlock Now
     -  -> <%DATE: today%> <%TIME: now%>
