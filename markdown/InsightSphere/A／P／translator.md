@@ -1,1 +1,3 @@
 - > 如何优雅的进行批量翻译操作？
+- 前期资料收集
+    - [沉浸式翻译](https://immersive-translate.owenyoung.com) `#罗赣中`
