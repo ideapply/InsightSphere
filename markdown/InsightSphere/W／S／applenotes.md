@@ -1,5 +1,5 @@
 - applenote其实挺强大的，有兴趣的可以一起发掘，hhh
-- [[Skyline]]
+- [[Skyline]] {{word-count}}
     - ## 不明显的功能
         - **支持标签**：`#` + 文字 ，标签也可以当简化的双链用
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FfdLsDXJY9V.png?alt=media&token=c5f3abd5-a5d7-453e-95b8-5357063a2677)
@@ -40,3 +40,14 @@
             - 全选粘贴过来的Link，右键制作链接即可
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FJlte0rewH9.png?alt=media&token=339a359e-958e-4253-8e7e-669c167c4969)
         - 除了上面两种常规方法，**链接**：支持[[Hook]]，链接笔记不用愁。
+    - ## Mac端重点快捷键
+        - 全局搜索(右上角)：⌘ + ⌥ + F
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FeEnpIrvk_h.png?alt=media&token=66438dbd-5d2d-485c-b2e1-dd02e8fce24e)
+        - 页面搜索：⌘ + F
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F80LSd1MDQ2.png?alt=media&token=28256be2-8231-4d95-be2f-ec63ae38e023)
+        - 其他请从菜单参考
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FgzEOWGsx36.png?alt=media&token=4cff48ce-20ce-4722-919a-64a71f293991)
+    - ##  隐私
+        - iOS和Mac上都可以通过开启对应的本地帐户，来通过本地使用Notes。重要的隐私内容，可以避免在云上泄露。
+            - 这里仅举例Mac端，iOS请在设置中找Notes做类似配置。
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FyxMxLF4pCz.png?alt=media&token=238e3cda-d332-461a-a9ed-b0914aa5c05a)
