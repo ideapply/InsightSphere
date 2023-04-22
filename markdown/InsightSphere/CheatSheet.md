@@ -21,6 +21,7 @@
         - #A/P/webclip ：网页剪辑策略分享
         - #A/P/translator ：文本翻译工作流设想
         - #A/P/stt :语音转文本方案实现
+        - #A/P/pkm :个人知识管理方案交流
     - #A/A ：方案实现(achieved)
     - #A/T ：小Tip经验分享(tips)
     - #A/R ：桃子计划 - 幻想可以有，万一实现了呢(roadmap)

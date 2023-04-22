@@ -1,0 +1,4 @@
+- > 本页面作为PKM(Personal Knowledge Management)个人知识管理交流页面，用于交流各自的PKM框架。
+- 前期资料收集
+    - [How And Why To Setup A Knowledge Base | PKM Basics - YouTube](https://www.youtube.com/watch?v=7TECHXQRKWU)
+- __目前只设置了本单独页面，对于内容过长的朋友，在后期也可以考虑采用`A/P/pkm/username`的形式扩展出单独的子页面，并在此页面留有简介。__
