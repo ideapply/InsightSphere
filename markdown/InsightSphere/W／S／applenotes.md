@@ -1,5 +1,5 @@
 - applenote其实挺强大的，有兴趣的可以一起发掘，hhh
-- [[Skyline]] {{word-count}}
+- [[Skyline]]
     - ## 不明显的功能
         - **支持标签**：`#` + 文字 ，标签也可以当简化的双链用
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FfdLsDXJY9V.png?alt=media&token=c5f3abd5-a5d7-453e-95b8-5357063a2677)
