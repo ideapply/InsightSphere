@@ -1,6 +1,6 @@
 - 前言
     - __大致说明软件的功能和特点，建议两百字以内__
-    - Tana在功能上介于Roam Research和Notion之间；相较于Roam Research加强了block之间的关联性，相较于Notion细化了内容的粒度和自由度
+    - Tana在功能上介于Roam Research和Notion之间；相较于Roam Research加强了block之间的关联性，相较于Notion细化了内容的粒度和自由度。
 - 前期资料收集
     - __与软件相关的主要信息源：包括官方内容、论坛内容、民间交流等内容__
     - Tana官网：[Tana](https://app.tana.inc/)
