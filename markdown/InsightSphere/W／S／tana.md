@@ -1,26 +1,28 @@
 - 前言
-    - __大致说明软件的功能和特点，建议两百字以内__
-    - Tana在功能上介于Roam Research和Notion之间；相较于Roam Research加强了block之间的关联性，相较于Notion细化了内容的粒度和自由度。Tana尤其适合
+    - Tana在功能上介于Roam Research和Notion之间；相较于Roam Research加强了block之间的关联性，相较于Notion细化了内容的粒度和自由度。Tana尤其适合条目明确的索引式知识库的搭建，其SuperTag功能会大大简化录入流程，同时降低后期的搜索压力。
 - 前期资料收集
-    - __与软件相关的主要信息源：包括官方内容、论坛内容、民间交流等内容__
-    - Tana官网：[Tana](https://app.tana.inc/)
+    - Tana官网：[Tana](https://tana.inc/)
+    - [Tana Slack社区](https://app.slack.com/client/T02E0729D6U/C02FDHUUDK5)
+    - [Tana 特色功能介绍： Super Tag 应用示例]([Tana 特色功能介绍： Super Tag 应用示例_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ce4y1m77o/)) `#玉树芝兰`
+    - [【开箱】全新双链笔记，Tana 构建万物，用于万物](https://www.bilibili.com/video/BV1hW4y1e7eN/) `#吕立青`
 - Inbox
     - todo事项和缓存区
 - 功能简述
     - __主要功能简述__
-- 桃子计划 `#A/R`
+- 桃子计划 #A/R
     - __未来功能期待__
     - **期待增加的功能**
         - Latex公式支持：方便公式编辑的粒度化
         - 通用格式的导入导出功能：方便导入和平台迁移
         - 离线访问和编辑功能：方便在非持续性网络环境下编辑
+        - ~~zotero插件支持：方便插入参考文献~~
     - **有待优化的功能**
     - **Bug**
     - **可以增加的功能**
         - PDF等附件的暂存和预览功能
         - 自带图床提供备份手段
 - Timeline
-    - __软件的关键变动的时间节点__
+    - Tana软件发布内测版 -> [[September 30th, 2022]]
 - RoadMap
     - __软件官方的路线规划__
 - 经验 `#A/T`
