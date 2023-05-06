@@ -32,4 +32,5 @@
         - 如`[[Hook]]`应当改写成`[[hook]]`，以方便后续生成`[[W/S/hook]]`的时候能通过[hierarchy](((FNajtEHIR)))中的`Homonyms`关联上。
 - ## 附件规范
     - 图片可以考虑都放在roam自带图床，方便后续访问和整库备份。
+    - 其它通过自带命令`/Upload Image, Audio, or File`上传的附件也已实现备份；当然本库应当以文字和图片为主，音视频以外链的形式附上即可。 
 - ### __对于有兴趣加入长期知识构建计划的朋友，欢迎将你Roam Research帐号的邮箱私信给我（ideapply@proton.me）；我会将本graph也加入你的目录中，方便后续编辑。__
