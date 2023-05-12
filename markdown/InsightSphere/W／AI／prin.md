@@ -1,0 +1,3 @@
+- 前期资料收集
+    - [机器学习图解]([The Illustrated Machine Learning Website](https://illustrated-machine-learning.github.io/index.html))
+    - [AI 的硬件瓶颈]([AI's Hardware Problem  - by Jon Y](https://asianometry.substack.com/p/ais-hardware-problem))
