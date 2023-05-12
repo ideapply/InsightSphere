@@ -3,8 +3,8 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FysfvNlzgxq.png?alt=media&token=61de5c68-86a9-4e1c-9965-723236e1d802)
 - Midjourney 5.1发布 -> [[May 12th, 2023]] 12:07
     - 发布信息
-        - ![]([](https://cdn.jsdelivr.net/gh/ideapply/pichub@master/obsidian/202305121210066.png))
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F6VFpSQfsr0.png?alt=media&token=6374671e-2152-4a4b-8b9d-943e8b716a39)
     - 更新内容demo展示
         - [Midjourney 5.1 更新](https://mp.weixin.qq.com/s/wxX-R6VAL3W8zEF74gVGBg)
-        - ![](https://cdn.jsdelivr.net/gh/ideapply/pichub@master/obsidian/202305121208686.png)
-        - ![](https://cdn.jsdelivr.net/gh/ideapply/pichub@master/obsidian/202305121211123.png)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FZDaDojiGev.png?alt=media&token=078ac84c-a479-413c-b6b0-ca692cc6af19)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FxaPdsTQXPc.png?alt=media&token=6e40a336-c872-49de-b2f1-d940009603a6)
