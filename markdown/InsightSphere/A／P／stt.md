@@ -1,6 +1,7 @@
 - > 语音转文本识别方案汇总和规划。
 - 前期资料收集
     - [GitHub - victorGPT/whisper-openai: One script that uses OpenAI to transcribe audio into text.](https://github.com/victorGPT/whisper-openai/)
+    - [GitHub - ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 - [[Inbox]]
     - todo事项和缓存区
 - 音频文件体积
