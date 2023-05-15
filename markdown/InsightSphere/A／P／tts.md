@@ -1,0 +1,3 @@
+- > 文本转语音方案汇总和规划。
+- 前期资料收集
+    - [GitHub - rhasspy/piper: A fast, local neural text to speech system](https://github.com/rhasspy/piper)
