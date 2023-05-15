@@ -2,6 +2,7 @@
 - 前期资料收集
     - [GitHub - victorGPT/whisper-openai: One script that uses OpenAI to transcribe audio into text.](https://github.com/victorGPT/whisper-openai/)
     - [GitHub - ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
+    - [GitHub - MahmoudAshraf97/whisper-diarization: Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper](https://github.com/MahmoudAshraf97/whisper-diarization)
 - [[Inbox]]
     - todo事项和缓存区
 - 音频文件体积
