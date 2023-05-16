@@ -1,0 +1,2 @@
+- WebPilot：Browse & QA webpage / generate articles, from one or more URLs
+- Show Me：Create and edit diagrams directly in chat

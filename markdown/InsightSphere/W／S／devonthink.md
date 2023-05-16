@@ -1,5 +1,5 @@
 - 前言
-    - Devonthink是一款功能强大的知识管理和文件组织软件，由德国公司DEVONtechnologies开发。它用来管理文档非常强，这也是它的定位：支持多种标签组织，不只检索文件名，还可以检索到文件内的文本，甚至可以通过索引来检索没有连到电脑上的移动硬盘中的文件，用来管理海量文档选它没错。
+    - Devonthink是一款功能强大的知识管理和文件组织软件，由德国公司DEVONtechnologies开发。它用来管理文档非常强，这也是它的定位：支持多种标签组织，不只检索文件名，还可以检索到文件内的文本，甚至可以通过索引来检索没有连到电脑上的移动硬盘中的文件，用来管理海量文档是一个不错的选择。
 - 前期资料收集
     - 官方说明书：https://www.devontechnologies.com/support/download/extras
     - DEVONthink 系列教程：https://space.bilibili.com/50105940/channel/collectiondetail?sid=1208766
