@@ -1,5 +1,5 @@
 - > 本页面作为PKM(Personal Knowledge Management)个人知识管理交流汇总页面。
 - 前期资料收集
     - [How And Why To Setup A Knowledge Base | PKM Basics - YouTube](https://www.youtube.com/watch?v=7TECHXQRKWU)
-    - [阳志平：构建优雅的知识创造系统](https://mp.weixin.qq.com/s/fxX_YBfpSlOmWFrQdsXC4A) #吕li qing
+    - [阳志平：构建优雅的知识创造系统](https://mp.weixin.qq.com/s/fxX_YBfpSlOmWFrQdsXC4A) `#吕立青`
 - __目前只设置了本单独页面，对于内容过长的朋友，在后期也可以考虑采用`A/P/pkm/username`的形式扩展出单独的子页面，并在此页面留有简介。__
