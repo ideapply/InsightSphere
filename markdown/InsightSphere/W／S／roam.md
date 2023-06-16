@@ -140,7 +140,7 @@
         - 跨Graph内容同步：其它Graph可以访问一个Graph单独页面的up-to-date内容
     - **有待优化的功能**
         - PDF/docx/markdown导出板式优化
-        - up-to-date的完整Excalidraw
+        - {{[[DONE]]}} up-to-date的完整Excalidraw -> [[April 14th, 2023]] 00:43
         - Discourse Graph资源占用和交互便易性
         - Roam文本粘贴在其它地方总是多了个`- `前缀
     - **Bug**
