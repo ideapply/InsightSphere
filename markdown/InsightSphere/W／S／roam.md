@@ -161,6 +161,7 @@
     - Conor发出了六周内更新30条tweet体量的更新计划 -> [9:30 AM · Feb 8, 2023](https://twitter.com/Conaw/status/1623132049388474368?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1623132049388474368%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Froamresearch.com%2F%3Fserver-port%3D3333%2Fapp%2FPrismVision%2Fpage%2FIM2Uiys_8)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FNmSTYQGRcb.png?alt=media&token=40a505df-e4b1-477e-9e68-22dad3526324)
             - Source:https://manifold.markets/JasperGo/will-conaw-ship-30-small-improvemen?r=SmFzcGVyR28
+    - Roam上架版本历史插件 -> [[June 16th, 2023]] 10:32
 - RoadMap
     - https://twitter.com/Conaw/status/1623132049388474368
 - ## 经验 #A/T

@@ -1,3 +1,5 @@
 - > 文本转语音方案汇总和规划。
 - 前期资料收集
     - [GitHub - rhasspy/piper: A fast, local neural text to speech system](https://github.com/rhasspy/piper)
+    - [GitHub - suno-ai/bark: 🔊 Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)
+        - [🌀 Live Examples](https://suno-ai.notion.site/Bark-Examples-5edae8b02a604b54a42244ba45ebc2e2)
