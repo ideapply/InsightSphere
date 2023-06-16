@@ -152,7 +152,7 @@
 - Timeline
     - 第一个DEMO视频 -> [[May 16th, 2018]]
         - https://www.youtube.com/watch?v=HzZFm-fb-LI
-    - 开始内测？ -> [[Aug 8th, 2019]]
+    - 开始内测？ -> [[August 8th, 2019]]
     - 正式开始收费 -> [[May 5th, 2020]]
     - 发布了桌面客户端 -> [[June 12th, 2021]]
     - 推出了端到端加密graph -> [[January 29th, 2022]]
