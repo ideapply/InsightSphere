@@ -17,3 +17,9 @@ body, html, a, div, textarea {
 body, textarea, html, blockquote  {
   font-size: 15px;
 }```
+- 隐藏用户订阅过期的窗口
+    - {{[[roam/css]]}}
+        - ```css
+.rm-plan-expired-banner {
+  display: none
+}```
