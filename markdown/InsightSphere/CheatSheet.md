@@ -31,4 +31,5 @@
 - #V ： 包括观点和相关论据分享的交流库（view）
     - #V/C ：观点声明（claim）
     - #V/E ：观点的论据佐证（evidence）
-    - #V/S ：~~保留项，不宜大量采用~~（source）
+    - #V/S ：软件观点（software）
+        - #V/S/alpha ：软件观点杂谈1
