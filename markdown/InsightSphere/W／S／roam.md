@@ -149,6 +149,8 @@
     - **可以增加的功能**
         - 资源占用不大的类白板交互布局
         - 官方整合的类openai功能
+        - 实现[Mirror Block](((9p69ZQwLh)))功能
+        - 曲线绘制功能
 - Timeline
     - 第一个DEMO视频 -> [[May 16th, 2018]]
         - https://www.youtube.com/watch?v=HzZFm-fb-LI
@@ -162,6 +164,7 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FNmSTYQGRcb.png?alt=media&token=40a505df-e4b1-477e-9e68-22dad3526324)
             - Source:https://manifold.markets/JasperGo/will-conaw-ship-30-small-improvemen?r=SmFzcGVyR28
     - Roam上架版本历史插件 -> [[June 16th, 2023]] 10:32
+    - Roam正式升级0.10.0并推出public API -> [[July 1st, 2023]] 06:42
 - RoadMap
     - https://twitter.com/Conaw/status/1623132049388474368
 - ## 经验 #A/T
