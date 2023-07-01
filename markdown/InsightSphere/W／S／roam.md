@@ -150,7 +150,7 @@
         - 资源占用不大的类白板交互布局
         - 官方整合的类openai功能
         - 实现[Mirror Block](((9p69ZQwLh)))功能
-        - 曲线绘制功能
+        - 数据曲线绘制功能
 - Timeline
     - 第一个DEMO视频 -> [[May 16th, 2018]]
         - https://www.youtube.com/watch?v=HzZFm-fb-LI
