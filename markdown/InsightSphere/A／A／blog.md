@@ -6,3 +6,6 @@
 - 罗素（org）：[时光漫步](https://www.aifeng.space/)
 - 仝tóng：[第三大脑](https://temberature.github.io/)
     - 智能共生——万物互联，裂隙有光。
+- 吕立青 (🐣,🐣)@JimmyLv.cn：[吕立青_JimmyLv](https://sspai.com/u/jimmylv/updates)
+- Sky：[Skyline的思考和记录本](https://skyline.zhubai.love/)
+- pimgeek：[学习者](https://pimgeek.com/)
