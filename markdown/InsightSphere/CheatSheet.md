@@ -26,9 +26,11 @@
         - #A/P/pkm :个人知识管理方案交流（Personal Knowledge Management）
         - #A/P/tts ：文本转语音方案实现（Text to Speech）
     - #A/A ：方案实现（achieved）
+        - #A/A/blog ：个人博客分享页面
     - #A/T ：小Tip经验分享（tips）
     - #A/R ：桃子计划 - 幻想可以有，万一实现了呢（roadmap）
 - #V ： 包括观点和相关论据分享的交流库（view）
+    - #V/Q ：问题论点（question）
     - #V/C ：观点声明（claim）
     - #V/E ：观点的论据佐证（evidence）
     - #V/S ：软件观点（software）
