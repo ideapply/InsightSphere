@@ -9,6 +9,7 @@
         - #W/S/emacs ：Emacs软件主题页
         - #W/S/thebrain ：TheBrain软件主题页
         - #W/S/tana ：Tana软件主题页
+        - #W/S/zotero ：Zotero软件主题页
     - #W/K ：基于中图法的纯学科向分类子项（knowledge）
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2Fm4Uhp-C3xo.png?alt=media&token=8e169ff8-03a7-45d6-a841-ea5f9508d928)
     - #W/AI ：AI相关的临时子项（artificial intelligence）
