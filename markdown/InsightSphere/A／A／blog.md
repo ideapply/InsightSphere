@@ -9,3 +9,4 @@
 - 吕立青 (🐣,🐣)@JimmyLv.cn：[吕立青_JimmyLv](https://sspai.com/u/jimmylv/updates)
 - Sky：[Skyline的思考和记录本](https://skyline.zhubai.love/)
 - pimgeek：[学习者](https://pimgeek.com/)
+- [[董茫茫]]：[董振业的博客](https://dongzhenye.com)
