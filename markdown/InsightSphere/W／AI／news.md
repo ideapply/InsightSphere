@@ -29,3 +29,12 @@
         - 根据下图官方的合作单位，Notion AI大概率用的就是Claude；两者使用场景也高度重合。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FqAPzwTQmdQ.png?alt=media&token=d4d37820-3f32-4d72-8be7-d71ce8862b8d)
             - Source：[Product \ Anthropic](https://www.anthropic.com/product)
+- Meta AI发布 Llama 2 -> [[July 19th, 2023]] 09:29
+    - 前期资料收集
+        - [Llama 2 - Meta AI](https://ai.meta.com/llama/)
+        - [Llama 2: Open Foundation and Fine-Tuned Chat Models | Meta AI Research](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
+        - [Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)
+    - Llama 2于美国时间2023年7月18日发布，相较于上一代增加了40%的训练数据，内容长度变为原来的两倍。不同于Llama 1的因泄露而开放，Llama 2直接将免费供研究目的或商业目的使用。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FUKVGU__tYa.png?alt=media&token=dad2355d-b75c-4447-b961-80cdc8ab3ba5)
+    - 性能跑分
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FtCpA61OTBR.png?alt=media&token=1d24f0a7-42a5-4b19-9ed2-3202196aab1a)
