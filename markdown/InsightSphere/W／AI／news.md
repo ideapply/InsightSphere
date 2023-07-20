@@ -38,3 +38,8 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FUKVGU__tYa.png?alt=media&token=dad2355d-b75c-4447-b961-80cdc8ab3ba5)
     - 性能跑分
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FtCpA61OTBR.png?alt=media&token=1d24f0a7-42a5-4b19-9ed2-3202196aab1a)
+- ChatGPT Plus每3小时对话数翻倍 -> [[July 20th, 2023]] 08:28
+    - 前期资料收集
+        - [ChatGPT — Release Notes | OpenAI Help Center](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+    - 新策略中ChatGPT Plus每3小时可以对话50条了，相对于之前策略数量翻倍。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FDl8vQCoH4d.png?alt=media&token=cfaed090-a59d-4b3e-b7be-3b6c056b0f27)
