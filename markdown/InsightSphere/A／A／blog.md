@@ -10,3 +10,4 @@
 - Sky：[Skyline的思考和记录本](https://skyline.zhubai.love/)
 - pimgeek：[学习者](https://pimgeek.com/)
 - [[董茫茫]]：[董振业的博客](https://dongzhenye.com)
+- 李元魁：[🐹 知識倉鼠](https://circleghost.substack.com/)
