@@ -43,3 +43,14 @@
         - [ChatGPT — Release Notes | OpenAI Help Center](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
     - 新策略中ChatGPT Plus每3小时可以对话50条了，相对于之前策略数量翻倍。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FDl8vQCoH4d.png?alt=media&token=cfaed090-a59d-4b3e-b7be-3b6c056b0f27)
+- Open AI推出ChatGPT企业版 -> [[August 29th, 2023]] 10:23
+    - 前期资料收集
+        - [OpenAI releases enterprise-grade version of ChatGPT - The Verge](https://www.theverge.com/2023/8/28/23849453/openai-chatgpt-enterprise-grade-version)
+    - 更新内容
+        - 承诺不将此版本的企业数据应用于模型训练
+        - 数据采用AES256静态加密和TLS 1.2+传输加密
+        - 设立后台管理员控制台
+        - GPT-4无使用次数上限，两倍响应速度、四倍上下文长度（32k token）
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FFtRRMX7tyr.jpeg?alt=media&token=7e959150-443a-4495-8fa4-2bd8c60f9ccc)
+    - 主观小结
+        - 除开放32k token之外，无实质性更新；属于B2C内容扩展到B2B内容的常规调整。
