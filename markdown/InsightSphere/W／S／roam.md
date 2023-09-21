@@ -165,6 +165,7 @@
             - Source:https://manifold.markets/JasperGo/will-conaw-ship-30-small-improvemen?r=SmFzcGVyR28
     - Roam上架版本历史插件 -> [[June 16th, 2023]] 10:32
     - Roam正式升级0.10.0并推出public API -> [[July 1st, 2023]] 06:42
+    - Roam移动版APP优化了使用体验 -> [[September 21st, 2023]] 20:24
 - RoadMap
     - https://twitter.com/Conaw/status/1623132049388474368
 - ## 经验 #A/T
