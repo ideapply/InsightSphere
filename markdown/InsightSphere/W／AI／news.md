@@ -43,7 +43,7 @@
         - [ChatGPT — Release Notes | OpenAI Help Center](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
     - 新策略中ChatGPT Plus每3小时可以对话50条了，相对于之前策略数量翻倍。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FDl8vQCoH4d.png?alt=media&token=cfaed090-a59d-4b3e-b7be-3b6c056b0f27)
-- Open AI推出ChatGPT企业版 -> [[August 29th, 2023]] 10:23
+- OpenAI推出ChatGPT企业版 -> [[August 29th, 2023]] 10:23
     - 前期资料收集
         - [OpenAI releases enterprise-grade version of ChatGPT - The Verge](https://www.theverge.com/2023/8/28/23849453/openai-chatgpt-enterprise-grade-version)
     - 更新内容
@@ -54,3 +54,16 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FFtRRMX7tyr.jpeg?alt=media&token=7e959150-443a-4495-8fa4-2bd8c60f9ccc)
     - 主观小结
         - 除开放32k token之外，无实质性更新；属于B2C内容扩展到B2B内容的常规调整。
+- OpenAI推出多模态 -> [[September 27th, 2023]] 15:46
+    - 前期资料收集
+        - [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
+        - [GPT-4V(ision) System Card](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
+        - https://twitter.com/xiaohuggg/status/1706304076126785833
+    - 更新内容
+        - 与ChatGPT进行实时语音会话
+        - 分析图片中内容
+        - 语音和图片功能将对Plus用户和Enterprise用户开放
+        - 功能将在接下来的两周内推出
+    - 主观小结
+        - 此次多模态升级中，语音部分已完整支持STT和TTS，测试效果良好；图片部分包含了图像识别，暂不包含图像生成。
+        - 这是一次很有价值的升级，基本实现了GPT-4推出之初的多模态目标。
