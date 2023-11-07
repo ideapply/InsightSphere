@@ -69,3 +69,26 @@
         - 这是一次很有价值的升级，基本实现了GPT-4推出之初的多模态目标。
     - 备注
         - 后续更新了公测DALL·E 3，多模态功能至此基本完整。
+- OpenAI首届开发者大会 -> [[November 7th, 2023]] 09:01
+    - 前期资料收集
+        - https://twitter.com/xiaohuggg/status/1721674244067901760
+    - 推出GPT-4 Turbo模型：
+        - 128k上下文
+        - 1/3输入价格、1/2输出价格
+        - 数据库更新到2023年4月
+    - 多模态功能：
+        - 升级Whisper V3，并推出新的TTS功能
+        - 正式推出图片识别和DALL·E 3图片生成功能
+        - 推出ALL Tools，集成多模态功能
+    - API功能升级：
+        - TTS支持API付费
+        - 图片识别支持API付费
+        - DALL·E 3支持API付费
+        - 降低价格、提高速率限制
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FxHiLUUKyGy.png?alt=media&token=79305bc0-b7dc-4532-81bd-684e48af8258)
+    - 模型定制：
+        - 根据指令和自定义附加资料建立定制模型
+        - 智能调用外部资源，类似automator，与外界实现交互
+        - 推出My GPTs定制模型商店
+    - 主观小结：
+        - 降本增效、化零为整；初步定制、初步交互。不错的开始！
