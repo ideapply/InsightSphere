@@ -85,10 +85,14 @@
         - 图片识别支持API付费
         - DALL·E 3支持API付费
         - 降低价格、提高速率限制
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FxHiLUUKyGy.png?alt=media&token=79305bc0-b7dc-4532-81bd-684e48af8258)
     - 模型定制：
         - 根据指令和自定义附加资料建立定制模型
         - 智能调用外部资源，类似automator，与外界实现交互
         - 推出My GPTs定制模型商店
     - 主观小结：
         - 降本增效、化零为整；初步定制、初步交互。不错的开始！
+    - 附件：
+        - API价格变动表
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FxHiLUUKyGy.png?alt=media&token=79305bc0-b7dc-4532-81bd-684e48af8258)
+        - GPTs商店的初始应用
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F4YI8d3aWf1.png?alt=media&token=be145e75-4899-4d40-95a2-774fae0ea2e7)
