@@ -99,4 +99,5 @@ RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
     - **绘制数据与最佳拟合曲线**
         - 用 [ListPlot](http://reference.wolfram.com/language/ref/ListPlot.html) 绘制数据点：in[1]:= `ListPlot[{1,3,4,7,9,15}]`
         - 用[图表](http://reference.wolfram.com/language/guide/ChartingAndInformationVisualization.html)显示信息： in[2]:= `BarChart[{1,2,3,4,5}]`
-        - 多个数据集添加:in[1]:= `ListLinePlot[{{1,2,3,4,5},}]`
+        - 多个数据集添加:in[1]:= `ListLinePlot[{{1,2,3,4,5},{1,3,7,10,17}}]`
+        - 用 [Fit](http://reference.wolfram.com/language/ref/Fit.html) 命令找到最佳拟合曲线： in[]
