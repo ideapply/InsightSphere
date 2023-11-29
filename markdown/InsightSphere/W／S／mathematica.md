@@ -96,4 +96,5 @@ RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
         - [NDSolveValue](http://reference.wolfram.com/language/ref/NDSolveValue.html) 可求出数值解：$$y'=\cos{x^2}$$
             - in[1]:=`NDSolveValue[{y'[x]==Cos[x^2],y[0]==0},y[x],{x,-5,5}]`
                 - in[2]:= `Plot[%,{x,-5,5}]`
-    - 
+    - **绘制数据与最佳拟合曲线**
+        - 用 [ListPlot](http://reference.wolfram.com/language/ref/ListPlot.html) 绘制数据点：
