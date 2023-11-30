@@ -88,7 +88,7 @@ RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
         - 3Dplot：`Plot3D[Sin[x + y^2], {x, -3, 3}, {y, -2, 2}]`
             - `VectorPlot3D[{x, y, z}, {x, -1, 1}, {y, -1, 1}, {z, -1, 1}]`
 - ### 扩展功能
-    - ^^**微分方程**^^
+    1. ^^**微分方程**^^
         - __Wolfram 语言可以求解常微分方程、偏微分方程和时滞微分方程 （ODE、PDE 和 DDE）.__
         - [DSolveValue](http://reference.wolfram.com/language/ref/DSolveValue.html) 接受微分方程并返回通解：$$y'+y=x$$
             - in[1]:= `sol=DSolveValue[y'[x]+y[x]==x,y[x],x]`
@@ -97,14 +97,14 @@ RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
         - [NDSolveValue](http://reference.wolfram.com/language/ref/NDSolveValue.html) 可求出数值解：$$y'=\cos{x^2}$$
             - in[1]:=`NDSolveValue[{y'[x]==Cos[x^2],y[0]==0},y[x],{x,-5,5}]`
                 - in[2]:= `Plot[%,{x,-5,5}]`
-    - **绘制数据**
+    2. **绘制数据**
         - 用 [ListPlot](http://reference.wolfram.com/language/ref/ListPlot.html) 绘制数据点：in[1]:= `ListPlot[{1,3,4,7,9,15}]`
         - 用[图表](http://reference.wolfram.com/language/guide/ChartingAndInformationVisualization.html)显示信息： in[2]:= `BarChart[{1,2,3,4,5}]`
         - 多个数据集添加:in[1]:= `ListLinePlot[{{1,2,3,4,5},{1,3,7,10,17}}]`
-    - **最佳拟合曲线**
+    3. **最佳拟合曲线**
         - 用 [Fit](http://reference.wolfram.com/language/ref/Fit.html) 命令找到最佳拟合曲线： in[1]:= `Fit[{2,3,5,7,11,13},{1,x,x^2},x]`
             - in[2]:=`Show[{Plot[%33, {x, 1, 6}], ListPlot[{2, 3, 5, 7, 11, 13}]}]`
-    - **矩阵与线性代数**
+    4. **矩阵与线性代数**
         - 表示矩阵
             - Wolfram 语言用列表的列表表示矩阵：in[1]:=`{{1,2},{3,4}}`
             - [MatrixForm](http://reference.wolfram.com/language/ref/MatrixForm.html) 将输出显示为一个矩阵：in[2]:= `MatrixFrom[{{a,b},{c,d}}]`
@@ -118,7 +118,7 @@ RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
             - 获取矩阵的[逆](http://reference.wolfram.com/language/ref/Inverse.html)：in[4]:= `Inverse[{{1,1},{0,1}}]`
         - ^^求解线性系统^^
             - 用 [LinearSolve](http://reference.wolfram.com/language/ref/LinearSolve.html) 求解线性系统：in[1]:= `LinearSolve[{{1,1},{0,1}},{x,y}]`
-    - **积分与导数**
+    5. **积分与导数**
         - 积分
             - 用 [Integrate](http://reference.wolfram.com/language/ref/Integrate.html) 计算积分：in[1]:= `Integrate[8x^4,x]`
             - 用 [NIntegrate](http://reference.wolfram.com/language/ref/NIntegrate.html) 来得到数值近似：in[2]:= `NIntegrate[x^3Sin[x]+2Log[3x]^2,{x,0,Pi}]`
@@ -127,10 +127,18 @@ RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
             - 或者使用角分符号：in[2]:= `Sin'[x]`
             - 对用户定义的函数求导：in[1]:=`f[x_]:=x^2+2x+1;f'[x]`
             - 多次求导：in[2]:= `D[x^6,{x,3}]`
-    - **绘图样式**
+    6. **绘图样式**
         - 画出正弦函数的图像： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}]`
         - Frame命令增加边框： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}, Frame -> True]`
         - GridLines命令增加网格： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}, GridLines -> Automatic]`
         - PlotStyle命令改变线宽： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}, PlotStyle -> {Thickness[0.01]}]`
         - AxesLabel命令坐标轴标记： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}, AxesLabel -> {"x", "y"}]`
         - Background命令背景颜色： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}, Background -> RGBColor[0, 1, 0]]`
+    7. ^^**三角函数**^^
+        - 反三角函数：in[1]:= `N[ArcTan[43/860]]`
+        - 弧度转角度：in[2]:= `N[ArcTan[43/860]*180/Pi]`
+        - 角度输入：in[3]:= `Sin[90 Degree]`
+- ### PlayGround
+    - 子图显示： `Table[Plot[f[x], {x, -Pi, Pi}], {f, {Sin, Cos, Tan, Cot, Sec, Csc}}]`
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FTWdWj19NLI.png?alt=media&token=392a242a-7f46-4207-8e6d-3fced93d6e8b)
+    - 
