@@ -1,7 +1,7 @@
 - > Mathematica是美国Wolfram研究公司生产的一种数学分析型的软件，以符号计算见长，也具有高精度的数值计算、强大的图形功能和动画等多媒体集成功能。
 - 前期资料收集
     - [Mathematica & Wolfram Language Tutorial: Fast Intro for Math Students](https://www.wolfram.com/language/fast-introduction-for-math-students/zh/?source=footer)
-    - [obsidian://open?vault=Obsidian&file=Luke's%20markdown%2F%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B%2FMathematica](obsidian://open?vault=Obsidian&file=Luke's%20markdown%2F%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B%2FMathematica)
+    - [Mathematica - Obsidian](obsidian://open?vault=Obsidian&file=Luke's%20markdown%2F%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B%2FMathematica)
 - ### 基本规则
     - 内置函数首字母大写
     - `[]`里面是所需要计算的内容
