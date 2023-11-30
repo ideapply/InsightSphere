@@ -6,7 +6,7 @@
         - `#W/S/obsidian`
     - 学科工具向：
         - `#W/S/matlab`
-        - `#W/S/mathematica`
+        - ~~`#W/S/mathematica`~~
         - `#W/S/comsol`
     - 语言工具向：
         - `#W/S/latex`

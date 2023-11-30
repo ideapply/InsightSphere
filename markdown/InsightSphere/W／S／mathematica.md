@@ -1,6 +1,7 @@
 - > Mathematica是美国Wolfram研究公司生产的一种数学分析型的软件，以符号计算见长，也具有高精度的数值计算、强大的图形功能和动画等多媒体集成功能。
 - 前期资料收集
     - [Mathematica & Wolfram Language Tutorial: Fast Intro for Math Students](https://www.wolfram.com/language/fast-introduction-for-math-students/zh/?source=footer)
+    - [obsidian://open?vault=Obsidian&file=Luke's%20markdown%2F%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B%2FMathematica](obsidian://open?vault=Obsidian&file=Luke's%20markdown%2F%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B%2FMathematica)
 - ### 基本规则
     - 内置函数首字母大写
     - `[]`里面是所需要计算的内容
@@ -126,3 +127,10 @@ RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
             - 或者使用角分符号：in[2]:= `Sin'[x]`
             - 对用户定义的函数求导：in[1]:=`f[x_]:=x^2+2x+1;f'[x]`
             - 多次求导：in[2]:= `D[x^6,{x,3}]`
+    - **绘图样式**
+        - 画出正弦函数的图像： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}]`
+        - Frame命令增加边框： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}, Frame -> True]`
+        - GridLines命令增加网格： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}, GridLines -> Automatic]`
+        - PlotStyle命令改变线宽： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}, PlotStyle -> {Thickness[0.01]}]`
+        - AxesLabel命令坐标轴标记： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}, AxesLabel -> {"x", "y"}]`
+        - Background命令背景颜色： `Plot[Sin[(2*Pi)/3*t], {t, 0, 3}, Background -> RGBColor[0, 1, 0]]`
