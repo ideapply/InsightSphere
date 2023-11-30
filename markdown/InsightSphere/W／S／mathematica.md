@@ -141,4 +141,3 @@ RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
 - ### PlayGround
     - 子图显示： `Table[Plot[f[x], {x, -Pi, Pi}], {f, {Sin, Cos, Tan, Cot, Sec, Csc}}]`
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FTWdWj19NLI.png?alt=media&token=392a242a-7f46-4207-8e6d-3fced93d6e8b)
-    - 
