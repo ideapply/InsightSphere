@@ -2,6 +2,7 @@
 - 前期资料收集
     - [Mathematica & Wolfram Language Tutorial: Fast Intro for Math Students](https://www.wolfram.com/language/fast-introduction-for-math-students/zh/?source=footer)
     - [Mathematica - Obsidian](obsidian://open?vault=Obsidian&file=Luke's%20markdown%2F%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B%2FMathematica)
+    - [Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com)
 - ### 基本规则
     - 内置函数首字母大写
     - `[]`里面是所需要计算的内容
@@ -69,7 +70,7 @@ RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
                 - 每条曲线下填充 FillingStyle Automatic
                 - 填充的样式 LabelingSize Automatic maximum size of callouts and labels MaxRecursion Automatic
                 - 递归子划分的最大数量 Mesh None
-                - 在每条曲线上绘制多少个网格点 MeshFunctions {#1&}
+                - 在每条曲线上绘制多少个网格点 `MeshFunctions {#1&}`
                 - 如何决定网格点的放置位置 MeshShading None
                 - 如何在网格点间绘制阴影区域 MeshStyle Automatic
                 - 网格点的样式 Method Automatic
