@@ -96,9 +96,13 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FxHiLUUKyGy.png?alt=media&token=79305bc0-b7dc-4532-81bd-684e48af8258)
         - GPTs商店的初始应用
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F4YI8d3aWf1.png?alt=media&token=be145e75-4899-4d40-95a2-774fae0ea2e7)
-- Google发布Gemini -> [[December 7th, 2023]] 10:21
+- Google 发布 Gemini -> [[December 7th, 2023]] 10:21
     - 前期资料收集
         - [Gemini - Google DeepMind](https://deepmind.google/technologies/gemini/#capabilities)
         - [Google Gemini: all the details on the AI model Google hopes can take on GPT-4 - The Verge](https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model)
+        - [Google’s Gemini AI model now powers the Bard chatbot - The Verge](https://www.theverge.com/2023/12/6/23989744/google-bard-gemini-model-chatbot-ai)
+        - [Gemini Nano now running on Pixel 8 Pro — the first smartphone with AI built in](https://store.google.com/intl/en/ideas/articles/pixel-feature-drop-december-2023/)
+        - [Google Deepmind's new Gemini model looks amazing—but could signal peak AI hype | MIT Technology Review](https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/)
     - 摘要
         - Google is launching the model in a few ways right now: Bard is [now powered by Gemini Pro](https://www.theverge.com/e/23753785), and Pixel 8 Pro users will [get a few new features](https://www.theverge.com/e/23753632) thanks to Gemini Nano. (Gemini Ultra is coming next year.)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FsyEF0BAJg7.png?alt=media&token=4098e3e5-f4c5-4055-a62c-827b10b34456)
