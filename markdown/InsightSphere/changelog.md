@@ -18,3 +18,8 @@
 注：以上实现仅对于Roam Research自有云服务
 - [[May 8th, 2023]]
     - 优化整库备份脚本：优化日志log，消除重复下载的现象，自动补全日志log和下载文件的缺省。
+- [[December 24th, 2023]]
+    - 实现对Roam中`.edn`格式文件的解析和edn2md/edn2html的转换，至此完成了对Roam完全的本地备份。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FM_aaOYK3cf.png?alt=media&token=5758ef03-8d54-4800-804c-827faa796dfb)
+    - __Happy Christmas Eve！__
+    - __ideapply__
