@@ -1,0 +1,94 @@
+- trigger
+    - \
+- grammar
+    - relations
+        - Informs
+            - Source
+                - _EVD-node
+            - Destination
+                - _QUE-node
+            - complement
+                - Informed By
+            - If
+                - And
+                    - Page
+                        - is a
+                            - source
+                    - Block
+                        - references
+                            - Page
+                    - Block
+                        - is in page
+                            - ParentPage
+                    - ParentPage
+                        - is a
+                            - destination
+        - Supports
+            - Source
+                - _EVD-node
+            - Destination
+                - _CLM-node
+            - complement
+                - Supported By
+            - If
+                - And
+                    - Page
+                        - is a
+                            - source
+                    - Block
+                        - references
+                            - Page
+                    - SBlock
+                        - references
+                            - SPage
+                    - SPage
+                        - has title
+                            - SupportedBy
+                    - SBlock
+                        - has child
+                            - Block
+                    - PBlock
+                        - references
+                            - ParentPage
+                    - PBlock
+                        - has child
+                            - SBlock
+                    - ParentPage
+                        - is a
+                            - destination
+        - Opposes
+            - Source
+                - _EVD-node
+            - Destination
+                - _CLM-node
+            - complement
+                - Opposed By
+            - If
+                - And
+                    - Page
+                        - is a
+                            - source
+                    - Block
+                        - references
+                            - Page
+                    - SBlock
+                        - references
+                            - SPage
+                    - SPage
+                        - has title
+                            - OpposedBy
+                    - SBlock
+                        - has child
+                            - Block
+                    - PBlock
+                        - references
+                            - ParentPage
+                    - PBlock
+                        - has child
+                            - SBlock
+                    - ParentPage
+                        - is a
+                            - destination
+- export
+    - max filename length
+        - 64
