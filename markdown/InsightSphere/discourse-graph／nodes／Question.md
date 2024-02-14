@@ -1,0 +1,4 @@
+- Format
+    - [[QUE]] - {content}
+- Shortcut
+    - Q

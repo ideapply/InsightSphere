@@ -1,0 +1,4 @@
+- Format
+    - [[EVD]] - {content} - {Source}
+- Shortcut
+    - E
