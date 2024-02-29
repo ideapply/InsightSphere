@@ -17,7 +17,7 @@ $$
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2Fg8FpxTOigd.png?alt=media&token=57933659-2e94-4a52-9138-010c0d1f5160)
 #.flex-row
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F9zRk0LqPF0.png?alt=media&token=392ea898-bb00-42a3-b975-5e4b0b33cf88)
-        - 压缩时对亮度Y不动，对颜色Cb
+        - 压缩时对亮度Y不动，对颜色Cb、Cr进行四合一压缩。
     - ### 低/高频信号感知
         - 人眼擅长感受低频信号，却不擅长感受高频信号。低频信号（LFS）指像素之间变化比较平缓的信号，高频信号（HFS）指像素之间变化比较剧烈的线条。
         - 首先，利用二维DCT频域变换使颜色/亮度信号转换成正弦信号的叠加。
