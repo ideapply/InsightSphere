@@ -33,3 +33,5 @@ $$
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FDhoMLhmkf5.png?alt=media&token=ea5866a0-62b9-475f-bafb-f365032706af)
         - 根据画面质量需求，将压缩后的图片信息进行熵编码，并存储。以上便是JPEG图片压缩算法的基本逻辑。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F10p2ZrFbqq.png?alt=media&token=d02e2840-ea62-45e5-bd66-fcf16d9e81e2)
+- ## 不同压缩方式的效果对比
+    - ![](https://upload.wikimedia.org/wikipedia/commons/4/4f/Comparison_between_JPEG%2C_JPEG_2000%2C_JPEG_XR_and_HEIF.png)
