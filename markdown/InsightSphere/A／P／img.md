@@ -1,9 +1,12 @@
-- > 图片压缩算法
+- > 图片编码与图片压缩算法。
 - 前期资料收集
     - [JPEG凭什么称霸互联网 30 多年？你大爷永远是你大爷！【柴知道】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1H2421F7sg/)
     - [JPEG - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/JPEG)
     - [YUV - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/YUV)
         - **YCbCr**不是一种[绝对色彩空间](https://zh.wikipedia.org/wiki/%E7%B5%95%E5%B0%8D%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%96%93)，是[YUV](https://zh.wikipedia.org/wiki/YUV)压缩和偏移的版本。YCbCr的Y与YUV中的Y含义一致，Cb和Cr与UV同样都指色彩，Cb指蓝色色度，Cr指红色色度。
+    - [离散余弦变换 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/离散余弦变换)
+        - 在[静止图像](https://zh.wikipedia.org/w/index.php?title=%E9%9D%99%E6%AD%A2%E5%9B%BE%E5%83%8F&action=edit&redlink=1)编码标准[JPEG](https://zh.wikipedia.org/wiki/JPEG)中，在[运动图像](https://zh.wikipedia.org/w/index.php?title=%E8%BF%90%E5%8A%A8%E5%9B%BE%E5%83%8F&action=edit&redlink=1)编码标准[MJPEG](https://zh.wikipedia.org/wiki/MJPEG)和[MPEG](https://zh.wikipedia.org/wiki/MPEG)的各个标准中都使用了离散余弦变换。在这些标准制中都使用了二维的第二种类型离散余弦变换，并将结果进行[量化](https://zh.wikipedia.org/wiki/%E9%87%8F%E5%8C%96_%28%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%29)之后进行[熵编码](https://zh.wikipedia.org/wiki/%E7%86%B5%E7%BC%96%E7%A0%81)。这时对应第二种类型离散余弦变换中的__n__通常是8，并用该公式对每个8x8块的每行进行变换，然后每列进行变换。得到的是一个8x8的变换系数矩阵。其中（0,0）位置的元素就是直流分量，矩阵中的其他元素根据其位置表示不同频率的交流分量。
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FIaHJ0tEtzW.png?alt=media&token=c7f9a139-8cf5-4f1b-95cb-0176ca519fa6)
 - ## 基于人眼敏感度的图片压缩算法 - JPEG
     - **JPEG**或称**JPG**，是一种针对照片影像而广泛使用的[有损压缩](https://zh.wikipedia.org/wiki/%E6%9C%89%E6%8D%9F%E6%95%B0%E6%8D%AE%E5%8E%8B%E7%BC%A9)标准方法，由**联合图像专家小组**（英语：**J**oint **P**hotographic **E**xperts **G**roup）开发。此团队创立于1986年，1992年发布了JPEG的标准而在1994年获得了ISO 10918-1的认定。
     - ### 颜色/亮度感知
@@ -20,7 +23,7 @@ $$
         - 压缩时对亮度Y不动，对颜色Cb、Cr进行四合一压缩。
     - ### 低/高频信号感知
         - 人眼擅长感受低频信号，却不擅长感受高频信号。低频信号（LFS）指像素之间变化比较平缓的信号，高频信号（HFS）指像素之间变化比较剧烈的线条。
-        - 首先，利用二维DCT频域变换使颜色/亮度信号转换成正弦信号的叠加。
+        - 首先，利用[二维DCT频域变换](((WKVXaII4b)))使颜色/亮度信号转换成正弦信号的叠加。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F1tI_kPbq0O.png?alt=media&token=4e11e268-c991-4205-ad0f-4e85c339248d)
 #.flex-row
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F9Cz1TYHO76.png?alt=media&token=ba4116fe-db28-4632-a0b5-7a4f43a53903)
