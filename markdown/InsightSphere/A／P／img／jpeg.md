@@ -18,3 +18,4 @@
 - [JPEG格式图像编解码](http://www.dwenzhao.cn/profession/imgia/jpegcode.html)
 - [JPEG图片压缩的Python实现](https://blog.csdn.net/u014134327/article/details/102807264)
     - [GitHub - Azuki-Azusa/JPEG: Translate pic to JPEG](https://github.com/Azuki-Azusa/JPEG)
+    - [JPEG算法解密（一） – TheCodeWay:我的博客](https://www.thecodeway.com/?p=69)
