@@ -7,6 +7,8 @@
     - [离散余弦变换 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/离散余弦变换)
         - 在[静止图像](https://zh.wikipedia.org/w/index.php?title=%E9%9D%99%E6%AD%A2%E5%9B%BE%E5%83%8F&action=edit&redlink=1)编码标准[JPEG](https://zh.wikipedia.org/wiki/JPEG)中，在[运动图像](https://zh.wikipedia.org/w/index.php?title=%E8%BF%90%E5%8A%A8%E5%9B%BE%E5%83%8F&action=edit&redlink=1)编码标准[MJPEG](https://zh.wikipedia.org/wiki/MJPEG)和[MPEG](https://zh.wikipedia.org/wiki/MPEG)的各个标准中都使用了离散余弦变换。在这些标准制中都使用了二维的第二种类型离散余弦变换，并将结果进行[量化](https://zh.wikipedia.org/wiki/%E9%87%8F%E5%8C%96_%28%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%29)之后进行[熵编码](https://zh.wikipedia.org/wiki/%E7%86%B5%E7%BC%96%E7%A0%81)。这时对应第二种类型离散余弦变换中的__n__通常是8，并用该公式对每个8x8块的每行进行变换，然后每列进行变换。得到的是一个8x8的变换系数矩阵。其中（0,0）位置的元素就是直流分量，矩阵中的其他元素根据其位置表示不同频率的交流分量。
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FIaHJ0tEtzW.png?alt=media&token=c7f9a139-8cf5-4f1b-95cb-0176ca519fa6)
+    - [HEIF - High Efficiency Image File Format](https://nokiatech.github.io/heif/)
+    - [JPEG图像压缩原理解析](https://wxjwjj.github.io/2018/05/14/jpeg/)
 - ## 基于人眼敏感度的图片压缩算法 - JPEG
     - **JPEG**或称**JPG**，是一种针对照片影像而广泛使用的[有损压缩](https://zh.wikipedia.org/wiki/%E6%9C%89%E6%8D%9F%E6%95%B0%E6%8D%AE%E5%8E%8B%E7%BC%A9)标准方法，由**联合图像专家小组**（英语：**J**oint **P**hotographic **E**xperts **G**roup）开发。此团队创立于1986年，1992年发布了JPEG的标准而在1994年获得了ISO 10918-1的认定。
     - ### 颜色/亮度感知
