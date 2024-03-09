@@ -109,3 +109,14 @@
     - 主观小结 -> Gemini Pro
         - 具有基本的识图能力，数学运算支持基本计算，与GPT4存在较大差距。
         - 形式上还行，甚至给出来源；但语义理解能力堪忧，事实性问题存在张冠李戴和无中生有的现象。
+- Anthropic 发布 Claude 3 -> [[March 9th, 2024]] 14:46
+    - 前期资料收集
+        - [Anthropic release Claude 3, claims >GPT-4 Performance — LessWrong](https://www.lesswrong.com/posts/JbE7KynwshwkXPJAJ/anthropic-release-claude-3-claims-greater-than-gpt-4)
+        - [Introducing the next generation of Claude \ Anthropic](https://www.anthropic.com/news/claude-3-family)
+    - 摘要
+        - Anthropic宣称Claude 3全面超过竞争对手OpenAI的GPT-4。
+        - 2024年3月4日，Anthropic宣布推出 Claude 3 模型系列。该系列包括三种最先进的型号（按功能升序排列）：Claude 3 Haiku、Claude 3 Sonnet 和 Claude 3 Opus。允许用户为其特定应用选择智能、速度和成本的最佳平衡。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F6JRR5nISY5.png?alt=media&token=f9a4251d-9cd4-4c04-a118-6c3c217d9f8e)
+            - **Important Caveat: **With the exception of GPQA, this is comparing against gpt-4-0314(the original public version of GPT-4), and not either of the GPT-4-Turbo models (gpt-4-1106-preview, gpt-4-0125-preview). The GPT-4 entry for GPQA is gpt-4-0613, which performs significantly better than -0314 on benchmarks. Where the data exists, gpt-4-1106-preview consistently outperforms Claude 3 Opus.
+    - 主观小结
+        - 通过对Claude 3 Sonnet代码能力的测试，发现其对比前代有着明显的提升，但相较于GPT-4仍然有着一定差距。Claude 3 Opus售价高昂，暂不计划测试；但媒体数据表明，其综合效果至少没有对GPT-4存在明显的优势。
