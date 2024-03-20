@@ -19,3 +19,4 @@
 - [JPEG图片压缩的Python实现](https://blog.csdn.net/u014134327/article/details/102807264)
     - [GitHub - Azuki-Azusa/JPEG: Translate pic to JPEG](https://github.com/Azuki-Azusa/JPEG)
     - [JPEG算法解密（一） – TheCodeWay:我的博客](https://www.thecodeway.com/?p=69)
+- [How are Images Compressed?  [46MB ↘↘ 4.07MB] JPEG In Depth - YouTube](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
