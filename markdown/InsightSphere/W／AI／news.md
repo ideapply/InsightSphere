@@ -120,6 +120,10 @@
             - **Important Caveat: **With the exception of GPQA, this is comparing against gpt-4-0314(the original public version of GPT-4), and not either of the GPT-4-Turbo models (gpt-4-1106-preview, gpt-4-0125-preview). The GPT-4 entry for GPQA is gpt-4-0613, which performs significantly better than -0314 on benchmarks. Where the data exists, gpt-4-1106-preview consistently outperforms Claude 3 Opus.
     - 主观小结
         - 通过对Claude 3 Sonnet代码能力的测试，发现其对比前代有着明显的提升，但相较于GPT-4仍然有着一定差距。Claude 3 Opus售价高昂，暂不计划测试；但媒体数据表明，其综合效果至少没有对GPT-4存在明显的优势。
-- OpenAI推出ChatGPT-4o -> [[May 14th, 2024]] 09:30
+- OpenAI发布了GPT-4o -> [[May 14th, 2024]] 09:56
     - 前期资料收集
         - https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/
+    - 摘要
+        - OpenAI发布了GPT-4o，运行速度是GPT-4 Turbo的两倍，价格减半。新模型是跨文本/语音/视频的多模态模型，替代了原本的模块化方案，相应速度更快且信息损失更小。
+        - 另外，将在免费版中提供GPT-4o，使用次数会受到一定限制。
+        - 近期，会推出桌面版的应用程序，以提升交互体验。
