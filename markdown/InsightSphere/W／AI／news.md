@@ -124,6 +124,10 @@
     - 前期资料收集
         - https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/
     - 摘要
-        - OpenAI发布了GPT-4o，运行速度是GPT-4 Turbo的两倍，价格减半。新模型是跨文本/语音/视频的多模态模型，替代了原本的模块化方案，相应速度更快且信息损失更小。
-        - 另外，将在免费版中提供GPT-4o，使用次数会受到一定限制。
+        - OpenAI发布了GPT-4o，运行速度是GPT-4 Turbo的两倍，价格减半。新模型替代了原本的模块化方案，是跨文本/语音/视频的多模态模型，相应速度更快且信息损失更小。
+        - 另外，GPT-4o也将在免费版中提供，使用次数会受到一定限制。
         - 近期，会推出桌面版的应用程序，以提升交互体验。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2Fua18fdf4TY.png?alt=media&token=b86006de-9b84-47c6-a02e-e2afc9082406)
+            - 图片来源：罗素（org）
+    - 主观小结
+        - 这次的更新是对以往技术的总结和优化，优化了语音交互的流畅性和准确性，图片交互效果也有一定提升。但这次的升级对于基本的文本模型似乎提升不大，期待后续的GPT-4.5。
