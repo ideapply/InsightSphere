@@ -169,6 +169,8 @@
     - Roam移动版APP优化了使用体验 -> [[September 21st, 2023]] 20:24
     - Roam全平台增加跨graph文本搜索 -> [[April 27th, 2024]] 09:59
         - Trigger with cmd-shift-u on mac or ctrl-shift-u on windows
+    - Roam发布了新版的Diagram功能 -> [[May 31st, 2024]] 13:49
+        - Trigger with `/Diagram`
 - RoadMap
     - https://twitter.com/Conaw/status/1623132049388474368
 - ## 经验 #A/T
