@@ -9,5 +9,9 @@ A Python script for backing up Roam Research attachments
 用于将 Roam Research 的 JSON 数据转换为 Markdown 格式。
     - {{[[DONE]]}} Roam Research EDN 文件转换工具：[edn-file-processor](https://github.com/ideapply/edn-file-processor) by #ideapply
 Roam Research EDN文件转换工具 【 Markdown、HTML 】
+    - Roam Research 卡片导出工具：[block-share-card](https://github.com/qcrao/block-share-card) by #qcrao
+share roam research block with beautiful card
+    - Roam Research 卡片展示/导出工具：[styled-roam](https://github.com/JimmyLv/styled-roam) #JimmyLv
+😉 Roam Research `[[roam/js]]` extension for Writing with your lovely cards and beautiful theme
 - ## 资源
     - {{[[DONE]]}} InsightSphere graph 实时备份页面：[InsightSphere](https://github.com/ideapply/InsightSphere) by #ideapply
