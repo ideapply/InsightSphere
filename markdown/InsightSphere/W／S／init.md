@@ -1,7 +1,38 @@
-- > 常用软件推荐页面
+- > 装机必备软件汇总页面。
+- [[Inbox]]
+    - __意见与建议区__
 - ### 视频播放器
     - #Windows
         - Potplayer：Windows平台最好用的免费开源视频播放器。
     - #macOS
         - IINA：macOS平台最好用的免费开源视频播放器。 -> [iina/iina](https://github.com/iina/iina)
         - Infuse：macOS平台综合性能最好的付费多媒体播放器。
+- ### PDF编辑浏览器
+    - #Windows
+    - #macOS
+        - PDF Expert：macOS平台综合体验最好的付费PDF编辑器。
+- ### 图片浏览器
+    - #Windows
+        - ACDSee：Window平台老牌的付费图片浏览工具。
+    - #macOS
+        - Lyn：macOS平台体验较好的付费图片浏览工具。
+- ### 音乐播放器
+    - #Windows
+        - foobar2000：Windows平台最为推荐的免费本地Hi-Fi播放器。
+    - #macOS
+- ### 解压缩工具
+    - #Windows
+        - WinRAR：Windows平台老牌的付费解压缩软件。
+    - #macOS
+        - BetterZip：macOS平台较为有名的付费解压缩软件。 （部分中文解压缩会出现乱码）
+- ### 下载工具
+    - #Windows
+        - IDM ：Windows平台的优秀付费下载工具。
+        - utorrent ：Windows平台的常用P2P下载工具。
+    - #macOS
+        - Downie：macOS平台的优秀付费下载工具。
+        - Transmission：macOS平台的常用跨平台免费开源P2P下载工具。
+- ### 科学上网工具
+    - #Windows
+    - #macOS
+        - Surge：macOS平台综合体验最好的付费科学上网工具。
