@@ -25,6 +25,7 @@
         - WinRAR：Windows平台老牌的付费解压缩软件。
     - #macOS
         - BetterZip：macOS平台较为有名的付费解压缩软件。 （部分中文解压缩会出现乱码）
+        - Keda：macOS平台免费解压缩软件。
 - ### 下载工具
     - #Windows
         - IDM ：Windows平台的优秀付费下载工具。
