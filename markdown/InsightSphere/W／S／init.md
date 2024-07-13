@@ -4,4 +4,4 @@
         - Potplayer：Windows平台最好用的免费开源视频播放器。
     - #macOS
         - IINA：macOS平台最好用的免费开源视频播放器。 -> [iina/iina](https://github.com/iina/iina)
-        - Infuse：macOS平台
+        - Infuse：macOS平台z
