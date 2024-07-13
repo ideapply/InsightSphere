@@ -3,4 +3,4 @@
     - #Windows
         - Potplayer：Windows平台最好用的免费开源视频播放器。
     - #macOS
-        - IINA：macOS
+        - IINA：macOS平台最好用的免费开源视频播放器。
