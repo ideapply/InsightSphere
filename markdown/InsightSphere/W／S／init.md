@@ -37,3 +37,8 @@
     - #Windows
     - #macOS
         - Surge：macOS平台综合体验最好的付费科学上网工具。
+- ### 截图工具
+    - #Windows
+        - Snipaste：Windows平台体验还行的跨平台付费截图工具。
+    - #macOS
+        - Xnip：macOS平台体验还行的付费截图工具。
