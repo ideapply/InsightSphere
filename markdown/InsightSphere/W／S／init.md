@@ -45,7 +45,7 @@
         - Snipaste：Windows平台体验还行的跨平台付费截图工具。 -> [官网](https://www.snipaste.com)
     - #macOS
         - Xnip：macOS平台体验还行的付费截图工具。
-- ### 跨平台笔记软件
+- ### 跨平台笔记软件 #Windows #macOS
     - [Roam Research]([[W/S/roam]])：用户体验最稳定的跨平台付费云端双链笔记软件。
     - Notion：大众认可度最高的跨平台云端笔记软件。
     - Obsidian：大众认可度最高的跨平台免费本地笔记软件。
