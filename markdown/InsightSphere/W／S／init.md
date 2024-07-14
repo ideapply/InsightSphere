@@ -3,14 +3,17 @@
     - __意见与建议区__
 - ### 视频播放器
     - #Windows
-        - Potplayer：Windows平台最好用的免费开源视频播放器。
+        - Potplayer：Windows平台最好用的免费视频播放器。 -> [官网](https://potplayer.daum.net)
     - #macOS
         - IINA：macOS平台最好用的免费开源视频播放器。 -> [iina/iina](https://github.com/iina/iina)
         - Infuse：macOS平台综合性能最好的付费多媒体播放器。
 - ### PDF编辑浏览器
     - #Windows
+        - Adobe Acrobat：Windows平台老牌的跨平台付费PDF编辑器。
+        - 福昕高级PDF编辑器：Windows平台体验较好的跨平台付费PDF编辑器。
     - #macOS
         - PDF Expert：macOS平台综合体验最好的付费PDF编辑器。
+        - Skim：macOS平台扩展性最好的免费PDF浏览器。 -> [官网](https://skim-app.sourceforge.io)
 - ### 图片浏览器
     - #Windows
         - ACDSee：Window平台老牌的付费图片浏览工具。
@@ -42,3 +45,8 @@
         - Snipaste：Windows平台体验还行的跨平台付费截图工具。 -> [官网](https://www.snipaste.com)
     - #macOS
         - Xnip：macOS平台体验还行的付费截图工具。
+- ### 跨平台笔记软件
+    - [Roam Research]([[W/S/roam]])：用户体验最稳定的跨平台付费云端双链笔记软件。
+    - Notion：大众认可度最高的跨平台云端笔记软件。
+    - Obsidian：大众认可度最高的跨平台免费本地笔记软件。
+    - Emacs：对程序员最友好的
