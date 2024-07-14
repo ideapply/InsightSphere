@@ -25,7 +25,7 @@
         - WinRAR：Windows平台老牌的付费解压缩软件。
     - #macOS
         - BetterZip：macOS平台较为有名的付费解压缩软件。 （部分中文解压缩会出现乱码）
-        - Keda：macOS平台免费解压缩软件。
+        - Keka：macOS平台免费解压缩软件。 -> [aonez/Keka](https://github.com/aonez/Keka)
 - ### 下载工具
     - #Windows
         - IDM ：Windows平台的优秀付费下载工具。
@@ -39,6 +39,6 @@
         - Surge：macOS平台综合体验最好的付费科学上网工具。
 - ### 截图工具
     - #Windows
-        - Snipaste：Windows平台体验还行的跨平台付费截图工具。
+        - Snipaste：Windows平台体验还行的跨平台付费截图工具。 -> [官网](https://www.snipaste.com)
     - #macOS
         - Xnip：macOS平台体验还行的付费截图工具。
