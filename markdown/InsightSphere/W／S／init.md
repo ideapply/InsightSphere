@@ -57,3 +57,8 @@
         - Zotero：知名的跨平台文献库管理软件。
     - #macOS
         - DEVONthink：macOS平台有名的综合性文件库管理软件。
+- ### 文档处理工具
+    - #Windows #macOS
+        - Word：大众认可度最高的付费文档编辑器
+        - Overleaf：大众认可度最高的付费在线LaTeX编辑器 -> [overleaf/overleaf](https://github.com/overleaf/overleaf)
+        - Typst：新兴的开源类LaTeX编辑器 -> [typst/typst](https://github.com/typst/typst) [touying-typ/touying](https://github.com/touying-typ/touying)
