@@ -131,3 +131,9 @@
             - 图片来源：罗素（org）
     - 主观小结
         - 这次的更新是对以往技术的总结和优化，优化了语音交互的流畅性和准确性，图片交互效果也有一定提升。但这次的升级对于基本的文本模型似乎提升不大，期待后续的GPT-4.5。
+- OpenAI发布 OpenAI o1-preview -> [[September 13th, 2024]] 07:59
+    - 前期资料收集
+        - [Introducing OpenAI o1 | OpenAI](https://openai.com/index/introducing-openai-o1-preview/)
+        - [Learning to Reason with LLMs | OpenAI](https://openai.com/index/learning-to-reason-with-llms/)
+    - 摘要
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FypVnp7CJjx.png?alt=media&token=ee8c29aa-11a6-4c0e-b8a4-846e5edb2436)
