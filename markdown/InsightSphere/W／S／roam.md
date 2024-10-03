@@ -137,7 +137,8 @@
             - WorkBench插件中启用table功能，触发关键词：`{{wb-table}}`
         - 便捷的计算能力：用以进行简单的单元格计算
         - 接入Reminder的提醒功能：以方便安排Todo-list
-        - {{[[DONE]]}} 类Git的版本记录：便于版本回滚 -> [[June 16th, 2023]] 10:37
+        - {{[[DONE]]}} 类Git的版本记录：便于版本回滚 -> [[June 16th, 2023]] 10:37 -> [[October 3rd, 2024]] 16:11
+            - 正式推出了官方的版本回滚功能
         - 跨Graph内容同步：其它Graph可以访问一个Graph单独页面的up-to-date内容
     - **有待优化的功能**
         - PDF/docx/markdown导出板式优化
