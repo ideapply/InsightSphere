@@ -212,6 +212,9 @@
     2. {{[[DONE]]}} roam-excalidraw在新的graph中经常无法启动。 -> [[March 29th, 2023]] 16:16
         - 目前官方支持的最新版excalidraw已发布，可以直接采用官方方案。 -> [[April 15th, 2023]]
             - 通过`/Excalidraw`指令调取。
+    3. roam 中文输入小括号，有问题：Shift+9？
+        - (（）)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FxQNHtlHjlq.png?alt=media&token=dbbf9bb9-de64-44de-be7f-167370defc5d)
 - 功能测试
     - Twitter
         - https://twitter.com/CatoMinor3/status/1281942769242603524
