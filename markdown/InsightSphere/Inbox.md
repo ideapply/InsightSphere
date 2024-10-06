@@ -1,3 +1,4 @@
 - 这里是意见收集箱，如果有比较系统性的建议，可以在这里列出；当然细节调整这块也可以在倡议书和各主题page下面增添。
 - 例：#ideapply #W/S/emacs ：页面布局我有更好的想法，具体如下：
     - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - 
