@@ -3,7 +3,7 @@
 - 前期资料收集
     - Tana官网：[Tana](https://tana.inc/)
     - [Tana Slack社区](https://app.slack.com/client/T02E0729D6U/C02FDHUUDK5)
-    - [Tana 特色功能介绍： Super Tag 应用示例]([Tana 特色功能介绍： Super Tag 应用示例_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ce4y1m77o/)) `#玉树芝兰`
+    - [Tana 特色功能介绍： Super Tag 应用示例_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ce4y1m77o/) `#玉树芝兰`
     - [【开箱】全新双链笔记，Tana 构建万物，用于万物](https://www.bilibili.com/video/BV1hW4y1e7eN/) `#吕立青`
 - Inbox
     - todo事项和缓存区

@@ -172,6 +172,8 @@
         - Trigger with cmd-shift-u on mac or ctrl-shift-u on windows
     - Roam发布了新版的Diagram功能 -> [[May 31st, 2024]] 13:49
         - Trigger with `/Diagram`
+    - Roam推新的导出格式`.msgpack` -> [[September 5th, 2024]] 11:43
+        - 体积小于edn（减小30%）和json格式，文本可读性差，不易导出。
 - RoadMap
     - https://twitter.com/Conaw/status/1623132049388474368
 - ## 经验 #A/T
