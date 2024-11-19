@@ -2,24 +2,26 @@
 - 「仓耳今楷」字体
     - {{[[roam/css]]}}
         - ```css
-@font-face { font-family: "CangErJinKai01-9128-W03-4"; src: url('https://raw.githubusercontent.com/ideapply/Fonts/main/CangErJinKai01-9128-W03-4.otf')
-format("opentype")
-}
-
-
-body, html, a, div, textarea {
-  font-family: "Iowan Old Style", "CangErJinKai01-9128-W03-4", serif, -apple-system, "SF UI Text", "Lucida Grande", STheiti, "Microsoft YaHei", sans-serif !important;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-
-body, textarea, html, blockquote  {
-  font-size: 15px;
-}```
+          @font-face { font-family: "CangErJinKai01-9128-W03-4"; src: url('https://raw.githubusercontent.com/ideapply/Fonts/main/CangErJinKai01-9128-W03-4.otf')
+          format("opentype")
+          }
+          
+          
+          body, html, a, div, textarea {
+            font-family: "Iowan Old Style", "CangErJinKai01-9128-W03-4", serif, -apple-system, "SF UI Text", "Lucida Grande", STheiti, "Microsoft YaHei", sans-serif !important;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+          }
+          
+          
+          body, textarea, html, blockquote  {
+            font-size: 15px;
+          }
+          ```
 - 隐藏用户订阅过期的窗口
     - {{[[roam/css]]}}
         - ```css
-.rm-plan-expired-banner {
-  display: none
-}```
+          .rm-plan-expired-banner {
+            display: none
+          }
+          ```

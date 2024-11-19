@@ -22,7 +22,7 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2Fc7OvIX6_J2.png?alt=media&token=3128f8fe-4bc4-456e-b70e-97570697fbeb)
     - Example::
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FZrxmIz7giF.png?alt=media&token=f61dd360-ed23-488e-ae4b-c4baf92faca9)
-#.flex-row
+          #.flex-row
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FBrsDj5bObf.png?alt=media&token=1fea29eb-a75d-4e9d-b14e-9bdef711a4c5)
     - 主观小结
         - 功能相对于ChatGPT目标更为清晰，主要用于对长文本的概览性解读。方便快速预览资料，并且可以实现较为灵活的交互会话。目前来看，很有潜力：适合解析需求不高但原始文本数据量较大的场合。

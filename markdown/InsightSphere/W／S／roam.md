@@ -4,8 +4,8 @@
     - Marc Koenig: 100 ROAM TIPS: Beginner to Advanced in 25 Mins | Course #[[Marc Koenig]]
         - {{[[video]]: https://www.youtube.com/watch?v=4yXK9OMc2OU}}
             1. [Introducing 100 Roam Tips](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=0s)​ 
-[Section 1: Introductory Tips](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=11s) 
-[00:12](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=12s) Keeping up with changes
+               [Section 1: Introductory Tips](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=11s) 
+               [00:12](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=12s) Keeping up with changes
             2. [00:23](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=23s) Sign up
             3. [00:32](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=32s) Roam app
             4. [00:44](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=44s) Daily note
@@ -39,7 +39,7 @@
             32. [07:04](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=424s) Search bar
             33. [07:13](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=433s) Use search bar to make pages
             34. [Section 2: Intermediate Tips](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=450s) 
-[07:31](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=451s) Open Sidebar from search bar
+                [07:31](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=451s) Open Sidebar from search bar
             35. [07:43](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=463s) Organize page content using sidebar
             36. [08:03](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=483s) Open sidebar fast
             37. [08:17](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=497s) Navigate text with hotkeys
@@ -52,7 +52,7 @@
             44. [10:08](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=608s) Adjust image sizes
             45. [10:18](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=618s) Link external pages + page aliases
             46. [Section 3: Practical Application](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=646s) 
-[10:48](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=648s) The best way to use bullets
+                [10:48](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=648s) The best way to use bullets
             47. [11:03](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=663s) The best way to use pages 
             48. [11:20](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=680s) Aspiration pages
             49. [11:38](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=698s) Upgrading the TODO page
@@ -63,7 +63,7 @@
             54. [12:42](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=762s) Reminder Tags
             55. [13:02](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=782s) Quiz Cards (Anki)
             56. [Section 4: Advanced Tips](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=795s) 
-[13:17](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=797s) The best way to use Favorites bar
+                [13:17](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=797s) The best way to use Favorites bar
             57. [13:33](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=813s) Introducing Block References
             58. [13:51](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=831s) Create Block References
             59. [14:17](https://www.youtube.com/watch?v=4yXK9OMc2OU&t=857s) Block Reference Codes & Search

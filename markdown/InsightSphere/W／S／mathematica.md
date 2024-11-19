@@ -36,25 +36,25 @@
     - **自定义函数**
         - 简单函数，注意下划线与冒号，当然还有更高级用法，两个下划线与三个下划线，以及默认参数等
             - In[35]:= `f[x_, y_] := x^2 y`    
-        `f[a, y]`  
-        `f[1, 2] `  
-Out[36]= a^2 y  
-Out[37]= 2
+                      `f[a, y]`  
+                      `f[1, 2] `  
+              Out[36]= a^2 y  
+              Out[37]= 2
     - **交互式操作**
         - 画一个sin x函数图像,并改变其振幅与周期：
-`Manipulate[Plot[A Sin[a x], {x, -5, 5}, PlotRange -> {{-5, 5}, {-5, 5}}], {a, 2, 5, 0.5}, {A, -2, 2, 0.2}]`
+          `Manipulate[Plot[A Sin[a x], {x, -5, 5}, PlotRange -> {{-5, 5}, {-5, 5}}], {a, 2, 5, 0.5}, {A, -2, 2, 0.2}]`
         - 改进一下模型，可以自定义函数头{sin,cos,tan}, 以及滑块名称定义，默认值定义。
-`Manipulate[Plot[fn[f*x + ps],  {x, 0, 2 \[Pi]}],  {{f, 1, "frequency"}, 1, 5}, 
- {{ps, 1, "phase shift"}, 1, 10},  {{fn, Sin, "function"},   {Sin, Cos, Tan}}]`
+          `Manipulate[Plot[fn[f*x + ps],  {x, 0, 2 \[Pi]}],  {{f, 1, "frequency"}, 1, 5}, 
+           {{ps, 1, "phase shift"}, 1, 10},  {{fn, Sin, "function"},   {Sin, Cos, Tan}}]`
     - **使用帮助**
         - 选中需要帮助的函数，按F1快捷键打开帮助文档
         - ？+函数，执行后给出函数帮助信息
     - **2D，3D绘图**
         - 2D图：`Plot[{Sin[x], Cos[x]}, {x, 0, 2 \[Pi]}]`
             - `Plot[{Sin[x], Cos[x]}, {x, 0, 2 \[Pi]}] 
-LogPlot[x^x, {x, 1, 10}]
-ParametricPlot[{Sin[t], t^2/100}, {t, 0, 10}] 
-RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
+              LogPlot[x^x, {x, 1, 10}]
+              ParametricPlot[{Sin[t], t^2/100}, {t, 0, 10}] 
+              RegionPlot[x^2 + y^2 <= 6 && y > 0, {x, -3.1, 3.1}, {y, -3.1, 3.1}]`
             - Plot函数属性分叉之多，例如常用的如下:
                 - AspectRatio 1/GoldenRatio 高宽比
                 - Axes True 是否绘制轴

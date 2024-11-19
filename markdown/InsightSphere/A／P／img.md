@@ -14,24 +14,24 @@
     - ### 颜色/亮度感知
         - 人眼对亮度变化的感知要比对色彩变化敏感的多。因为人眼中感受亮度的视杆细胞（1.25亿）要比感受色彩的视锥细胞（600～700万）要多得多。因此，可以将原先的RGB色彩编码转换成基于亮度和色彩的[YCbCr编码](((fzGmRBAHB)))。
         - $$\begin{aligned}
-\rm{Y} &= 0.299R + 0.587G + 0.114B \\
-\rm{Cb} &= -0.1687R - 0.3313G + 0.5B + 128 \\
-\rm{Cr} &= 0.5R - 0.4187G - 0.0813B + 128
-\end{aligned}
-$$
+          \rm{Y} &= 0.299R + 0.587G + 0.114B \\
+          \rm{Cb} &= -0.1687R - 0.3313G + 0.5B + 128 \\
+          \rm{Cr} &= 0.5R - 0.4187G - 0.0813B + 128
+          \end{aligned}
+          $$
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2Fg8FpxTOigd.png?alt=media&token=57933659-2e94-4a52-9138-010c0d1f5160)
-#.flex-row
+          #.flex-row
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F9zRk0LqPF0.png?alt=media&token=392ea898-bb00-42a3-b975-5e4b0b33cf88)
         - 压缩时对亮度Y不动，对颜色Cb、Cr进行四合一压缩。
     - ### 低/高频信号感知
         - 人眼擅长感受低频信号，却不擅长感受高频信号。低频信号（LFS）指像素之间变化比较平缓的信号，高频信号（HFS）指像素之间变化比较剧烈的线条。
         - 首先，利用[二维DCT频域变换](((WKVXaII4b)))使颜色/亮度信号转换成正弦信号的叠加。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F1tI_kPbq0O.png?alt=media&token=4e11e268-c991-4205-ad0f-4e85c339248d)
-#.flex-row
+          #.flex-row
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F9Cz1TYHO76.png?alt=media&token=ba4116fe-db28-4632-a0b5-7a4f43a53903)
         - 然后对其中视觉不太敏感，且数值较小的高频信号进行压缩。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FBHjBfHWbku.png?alt=media&token=e292d52a-d82c-40a9-9cb1-feb11a4d74c1)
-#.flex-row
+          #.flex-row
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2FDhoMLhmkf5.png?alt=media&token=ea5866a0-62b9-475f-bafb-f365032706af)
         - 根据画面质量需求，将压缩后的图片信息进行熵编码，并存储。以上便是JPEG图片压缩算法的基本逻辑。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FInsightSphere%2F10p2ZrFbqq.png?alt=media&token=d02e2840-ea62-45e5-bd66-fcf16d9e81e2)
